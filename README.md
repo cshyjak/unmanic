@@ -64,7 +64,7 @@ The Docker container is currently based `linuxserver.io` Ubuntu focal image.
 
 ## Dependencies
 
- - Python 3.x ([Install](https://www.python.org/downloads/))
+ - Python 3.7+ ([Install](https://www.python.org/downloads/))
  - To install requirements run 'python3 -m pip install -r requirements.txt' from the project root
 
 Unmanic can be used for running many commands. You will need to ensure that the required dependencies for those commands are installed.
@@ -99,7 +99,7 @@ To run from source:
 
 ## License and Contribution
 
-This projected is licensed under th GPL version 3. 
+This project is licensed under the GPL version 3. 
 
 Copyright (C) Josh Sunnex - All Rights Reserved
 
